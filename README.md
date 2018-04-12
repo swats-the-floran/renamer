@@ -7,3 +7,5 @@ defaults:
     to=
     hastext=
     fdirs=files
+
+![Imgur](https://i.imgur.com/8DGKVZk.png)
